@@ -20,15 +20,15 @@ Experienced with TestRail, Jira, Postman, DevTools, and functional testing.
 - `/bug-reports` — Bug reports formatted according to Jira standards, including critical integration bugs and backend logic issues.
 - `/sql` — SQL queries for debugging, data validation, and analytics.
 - `/reports` — PDF versions of test summary reports and bug overview reports.
-- `/attachments` — Screenshots, HAR files, logs (sample placeholders).
+- `/projects` — Personal porojects and test tasks.
 
 ---
 
 ## 🚀 Tools & Technologies
 
 - Test Management: TestRail, Jira
-- API Testing: Postman, 
-- Databases: MySQL, MsSQL
+- API Testing: Postman 
+- Databases: MySQL
 - Web Tools: Chrome DevTools
 
 ---
