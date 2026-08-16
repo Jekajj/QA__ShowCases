@@ -7,7 +7,7 @@ This repository contains examples of real test documentation, SQL scenarios, and
 
 ## 📌 About Me
 
-**Junior Manual QA Engineer**  
+**Manual QA Engineer**  
 Strong knowledge of SDLC/STLC, test design, API testing, and SQL.  
 Experienced with TestRail, Jira, Postman, DevTools, and functional testing.
 
